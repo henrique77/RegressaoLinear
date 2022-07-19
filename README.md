@@ -14,7 +14,7 @@ Além das bibliotecas mencionadas, foi utilizada [Pandas](https://pandas.pydata.
 No diretório bonus o modelo treinado está sendo aplicado em uma simulação interativa
 
 <div align="center">
-  <img src="./github/dados/imagens/simulacaoInterativa.png" alt="home" height="425">
+  <img src="./dados/imagens/simulacaoInterativa.png" alt="home" height="250">
 </div>
 
 Para executar o projeto, baixe o notebook e o Dataset e execute no [Jupyter Notebook](https://jupyter.org/) ou no [Google Colab](https://colab.research.google.com/?utm_source=scs-index)
